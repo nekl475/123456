@@ -25,7 +25,7 @@ do {
         console.log('error!');
         i--;
     }
-} while (i < 2)
+} while (i < 2);
 
 if (personalMovieDB.count < 10) {
     console.log("Просмотрено довольно мало фильмов");
