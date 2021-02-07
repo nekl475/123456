@@ -1,6 +1,3 @@
-"use strict";
-
-
 const personalMovieDB = {
     count: 0,
     movies: {},
